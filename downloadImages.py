@@ -6,7 +6,7 @@ start_number    = 1
 end_number      = 100
 time_delay      = 3  #time in seconds between request
 url_to_folder   = "https://example.com/images/"
-image_base_name =  "image" #in the example above, this would be image
+image_base_name = "image" #in the example above, this would be image
 file_extention  = ".png"
 save_folder     = "downloaded_images/"
 
