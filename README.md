@@ -34,6 +34,7 @@ I think this is as good as I am going to get it without learning more about what
 Landscape 2a | Landscape 2b | Mountain 2 | Mountain 2b | Shack 2 | Shack 2b
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2b.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2b.png" width="224"> 
+Distinctive tree on left side |Very nice landscape, colours are nice |Cloud swirls, moutain outline|Sky is blue, great shading mountain | Shack is well defined, colours are poor | Stick tree on left side, shack developing on right
 
 As you can see, these are by no means perfect. In Landscape 2a we start to see details that you can make out to be part of a landscape. 
 Landscape 2b has a stick-tree, very easy to see. 
