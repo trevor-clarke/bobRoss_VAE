@@ -24,15 +24,26 @@ https://www.machinecurve.com/index.php/2019/12/30/how-to-create-a-variational-au
 
 ### Note 6.
 Attempt 1. Alright. It turned out, well, okay. Not great... I sent some of the images it generated to a friend, they couldn't guess what it was without me telling them. 
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape1.png)
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain1.png)
+Landscape 1 | Mountain 1
+------------ | -------------
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape1.png) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain1.png)
 
 ### Note 7.
 I have spent a day or two tweeking things, changing the size of the training data vs. test data. Adding epoch, removing epoch, etc. 
 I think this is as good as I am going to get it without learning more about what the actual layers in the nural network are doing. Anyway, here are the results:
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png)
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png)
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png)
+Landscape 2a | Landscape 2b | Mountain 2 | Mountain 2b | Shack 2 | Shack 2b
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png | width=224) |
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png | width=224) |
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png | width=224) |
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2b.png | width=224) |
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2.png | width=224) |
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2b.png | width=224) 
+As you can see, these are by no means perfect. In Landscape 2a we start to see details that you can make out to be part of a landscape. 
+Landscape 2b has a stick-tree, very easy to see. 
+Mountain 2 is not accurate in terms of colour, however, it has a defined shape, and a very interesting cloud pattern. 
+Shack 2, this was not the best in terms of colour, but the shack is very very well defined.
 
 
 
