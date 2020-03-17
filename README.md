@@ -34,18 +34,11 @@ I think this is as good as I am going to get it without learning more about what
 Landscape 2a | Landscape 2b | Mountain 2 | Mountain 2b | Shack 2 | Shack 2b
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2b.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2.png" width="224"> | <img src="https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2b.png" width="224"> 
-Distinctive tree on left side |Very nice landscape, colours are nice |Cloud swirls, moutain outline|Sky is blue, great shading mountain | Shack is well defined, colours are poor | Stick tree on left side, shack developing on right
+Distinctive tree on left side |Very nice landscape, colours are nice |Cloud swirls, moutain outline|Sky is blue, great shading mountain | Shack is well defined, colours are poor | Stick tree (L), shack (R)
 
-As you can see, these are by no means perfect. In Landscape 2a we start to see details that you can make out to be part of a landscape. 
-Landscape 2b has a stick-tree, very easy to see. 
-Mountain 2 is not accurate in terms of colour, however, it has a defined shape, and a very interesting cloud pattern. 
-Shack 2, this was not the best in terms of colour, but the shack is very very well defined.
+As you can see, these are by no means perfect, however, considering how the network was developed to generate black and white 28x28 images of numbers, this is pretty good.
 
-<style>
-  img {
-  height: 220px;
-}
-</style>
+I have spent a ton of time trying to convert the code to use a sytax I see more often in the TF documentation... however, I keep getting stuck with basic things, and my mind gets boggled when trying to do the complex stuff. Thus, I am going to work on a few, more simple, machine learning project first and then come back to this one.
 
 
 
