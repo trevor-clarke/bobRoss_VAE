@@ -23,5 +23,16 @@ After a ton of time, I found this blog with example code that has been written w
 https://www.machinecurve.com/index.php/2019/12/30/how-to-create-a-variational-autoencoder-with-keras/
 
 ### Note 6.
+Attempt 1. Alright. It turned out, well, okay. Not great... I sent some of the images it generated to a friend, they couldn't guess what it was without me telling them. 
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape1.png)
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain1.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### Note 7.
+I have spent a day or two tweeking things, changing the size of the training data vs. test data. Adding epoch, removing epoch, etc. 
+I think this is as good as I am going to get it without learning more about what the actual layers in the nural network are doing. Anyway, here are the results:
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png)
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png)
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png)
+
+
+
