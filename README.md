@@ -34,12 +34,7 @@ I think this is as good as I am going to get it without learning more about what
 Landscape 2a | Landscape 2b | Mountain 2 | Mountain 2b | Shack 2 | Shack 2b
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png | width=224) |
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png | width=224) |
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png | width=224) |
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2b.png | width=224) |
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2.png | width=224) |
-![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2b.png | width=224) 
+![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2.png | width=224) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/landscape2b.png | width=224) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2.png | width=224) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/mountain2b.png | width=224) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2.png | width=224) | ![First Landscape Image Generated](https://github.com/trevor-clarke/bobRoss_VAE/blob/master/sample_images/house2b.png | width=224) 
 As you can see, these are by no means perfect. In Landscape 2a we start to see details that you can make out to be part of a landscape. 
 Landscape 2b has a stick-tree, very easy to see. 
 Mountain 2 is not accurate in terms of colour, however, it has a defined shape, and a very interesting cloud pattern. 
